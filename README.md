@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+## 🌐 SoftSell — License Resale Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive, single-page marketing website for a fictional software resale startup, **SoftSell**. Built with **React**, styled using **Tailwind CSS**, and animated using **Framer Motion** for a modern, fluid experience.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+### 🚀 Live Demo
 
-### `npm start`
+👉 [**Hosted Link**](https://your-live-url.com)
+👉 [**GitHub Repository**](https://github.com/your-repo-link)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### ✅ Features Implemented
 
-### `npm test`
+| Section                   | Description                                                                |
+| ------------------------- | -------------------------------------------------------------------------- |
+| **Hero Section**          | Eye-catching headline, subheading, typewriter animation, and CTA button    |
+| **How It Works**          | 3-step process with icons: Upload → Get Valuation → Get Paid               |
+| **Why Choose Us**         | 4 clean tiles with icons and hover animation                               |
+| **Customer Testimonials** | 3 testimonials with names, companies, 5-star ratings, and animations       |
+| **Contact Form**          | Input fields with dropdown and validation (frontend only)                  |
+| **Dark Mode**             | Toggle switch with theme persistence                                       |
+| **Animations**            | Used **Framer Motion** for section transitions, hover effects, and scaling |
+| **Responsive Design**     | Fully responsive across mobile, tablet, and desktop                        |
+| **Clean UI**              | Balanced layout, consistent spacing, and elegant color palette             |
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+### ⚙️ Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* **React.js** (Vite)
+* **Tailwind CSS** for styling
+* **Framer Motion** for animations
+* **Lucide React** for icons
+* **React Simple Typewriter** for animated hero text
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🎯 Design Choices
 
-### `npm run eject`
+* **Modern UI:** Gradients, rounded corners, glass-like effects, and smooth animations
+* **Dark Mode First:** Optimized for both light and dark themes
+* **Accessible & Minimal:** Keyboard-friendly inputs and readable contrast
+* **Consistent Branding:** Used one palette with slight gradients and hover states
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### ❌ Not Implemented
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* ❌ LLM-powered chatbot (optional bonus not integrated)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+### ⏱️ Time Spent
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Approx. **8–10 hours** 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 🧠 Credits
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Built with ❤️ by **Vansh Sharma**
+🔗 [LinkedIn](https://www.linkedin.com/in/vansh-sharma)
+📧 Email: [your-email@example.com](mailto:your-email@example.com)

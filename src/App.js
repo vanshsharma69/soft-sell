@@ -4,6 +4,7 @@ import WhyChooseUs from './sections/WhyChooseUs';
 import Testimonials from './sections/Testimonials';
 import ContactForm from './sections/ContactForm';
 import Navbar from './sections/Navbar';
+import Footer from './sections/Footer';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <WhyChooseUs />
       <Testimonials />
       <ContactForm />
+      <Footer />
     </div>
   );
 }
