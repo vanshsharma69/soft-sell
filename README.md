@@ -6,8 +6,7 @@ A responsive, single-page marketing website for a fictional software resale star
 
 ### 🚀 Live Demo
 
-👉 [**Hosted Link**](https://your-live-url.com)
-👉 [**GitHub Repository**](https://github.com/your-repo-link)
+👉 [**Hosted Link**](https://soft-sell-psi-three.vercel.app/)
 
 ---
 
